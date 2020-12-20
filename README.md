@@ -1,0 +1,2 @@
+# Sentiment-Analysis
+IMDB Movie reviews dataset is the most popular and useful data to create learning models to predict whether corresponding text is positive or negative. In this deep learning model, I have used Recurrent Neural Network (RNN) - Long Short Term Memory (LSTM) and Word2Vec for Word Embedding. For Word embedding using GloVe pre-trained Word Embedding contain 400,000 word vectors with dimensionality of 50. Using LSTM and Word2Vec for Word embedding predicted movie reviews. Tools/Technologies Used: TensorFlow, Keras, Python, RNN-LSTM, Numpy
